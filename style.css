@@ -1,0 +1,132 @@
+body {
+    background-color: bisque;
+    background-image: url("./images/three.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.titlelines{
+    size: auto; 
+    background-color: whitesmoke;
+    border-radius: 0px; 
+    margin: auto;
+    
+}
+
+
+.titlelines p {
+    border-width: 4px;
+    border-style: dashed;
+    border-left-style: double;
+    text-align: center;
+    border-radius: 5px;
+    font-size: larger;
+    margin: auto;
+    margin: 5px;
+}
+
+.openNewlink{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 0px; 
+    padding: 40px;
+    position: absolute;
+    margin-top: 12.5%;
+    margin-left: 78%;
+    text-align: center;
+    border-radius: 70%;
+    border-style:solid
+}
+
+
+
+.openNewlink a{
+    text-align: center;
+    font-size: larger;
+
+}
+.openNewlink a:link{
+    color:red
+
+}
+
+.openNewlink a:hover{ 
+    color: hotpink;
+}
+
+
+.openNewlink a:active{
+    color:blue
+}
+
+
+
+h1{
+    background-image: url("./images/three.png");
+    inline-size: 26%;
+    background-color: yellow;
+    color: rgb(58, 58, 58);
+    text-align: center;
+    text-size-adjust: 4px;
+    margin: auto;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 25px;
+    padding: 40px 40px;
+    box-sizing: content-box;
+    box-sizing: border-box; 
+    text-shadow: -15px -5px 3px rgb(0, 0, 0);
+    
+}
+
+
+
+.openAIlink{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(13, 226, 245);
+    border-radius: 0px; 
+    padding: 40px;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 6%;
+    text-align: center;
+    border-radius: 70%;
+    border-style:dotted
+}
+
+.story{
+    height: 300px;
+    width: 300px;
+    margin-top: 7%;
+    position: absolute;
+    margin-left: 1450px;
+    background-color:orange;
+}
+
+a{
+    text-align: center;
+    font-size: larger;
+
+}
+a:link{
+    color:red
+
+}
+
+a:hover{ 
+    color: hotpink;
+}
+
+
+a:active{
+    color:blue
+}
+
+
+
+
+
