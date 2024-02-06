@@ -1,0 +1,50 @@
+body {
+    background-color:  bisque;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url("./images/Picture1.jpg");
+}
+
+
+.textStyleBox p{
+    font-size: xx-large;
+}
+
+.textStyleBox{
+    background-color: white;
+    border-style: solid;
+    border-radius: 25px;
+}
+
+.image1 {
+    width: 400px;
+    height: 400px;
+    background-image: url("./images/Picture2.jpg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 0.3%;
+}
+
+.image2 {
+    width: 400px;
+    height: 400px;
+    background-image: url("./images/Picture3.jpg");
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+    margin-left: 1300px;
+    margin-top: 11px;
+}
+
+.image3 {
+    width: 400px;
+    height: 400px;
+    background-image: url("./images/Picture5.jpg");
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+    margin-left: 750px;
+    margin-top: 363px;
+}
